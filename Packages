@@ -1,0 +1,17 @@
+Package: haogamer.github.io
+Architecture: iphoneos-arm
+Version: 10.98
+Section: Tweaks
+Maintainer: haogamer
+Installed-Size: 288
+Depends: mobilesubstrate
+Filename: ./debs/haogamer.github.io_10.98_iphoneos-arm.deb
+Size: 97086
+MD5sum: 97ec76b02ff63de82fdf031a7aadb393
+SHA1: 06d764dd9a49493c65ec309f14598d237345de86
+SHA256: 6271789e7d2a9a1e5d2fe6b58b007861594975ab43144d09ab876cb55dc4d8aa
+SHA512: ca2f72479b9c55bcfd5ab437ae6b3259c48990e4aabf7e289ff4094216b15ff8cb2f54d6b5d64e45f1748563ed7adc05d099dcaae8450ba5ca8a144426eb3340
+Description: An Awesome Tweak !
+Name: Sausage Man Mod Menu
+Author: haogamer
+

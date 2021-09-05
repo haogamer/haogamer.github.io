@@ -1,0 +1,11 @@
+Origin: Hao's Repo
+Label: haogamer
+Suite: stable
+Version: 1.0
+Codename: ios
+Architecture: iphoneos-arm
+Components: main
+Description: A little repo to use
+MD5Sum:
+ 1ba53e1f7cd3dbcf75f047b27ddb31b5 598 Packages
+ 9444dac018deea0437ce8034740868f5 446 Packages.bz2
